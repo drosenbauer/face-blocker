@@ -1,21 +1,5 @@
-# <img src="public/icons/icon_48.png" width="45" align="left"> Face Blocker
+# Face Blocker Chrome extension
 
-My Chrome Extension
+In progress, experimental, don't use it for anything serious, you have been warned.
 
-## Features
-
-- Feature 1
-- Feature 2
-
-## Install
-
-[**Chrome** extension]()
-
-## Contribution
-
-Suggestions and pull requests are welcomed!.
-
----
-
-This project was bootstrapped with [Chrome Extension CLI](https://github.com/dutiyesh/chrome-extension-cli)
-
+I need to upgrade this to use the Human library at some point, so that the face detection can take place in a Service Worker.
